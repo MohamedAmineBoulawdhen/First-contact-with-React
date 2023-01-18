@@ -16,7 +16,7 @@ C:\Users\medam\Downloads\projects\GMG\test_react\reactapp1 > npm start
 4-npx create-react-app firstapp
 5-cd firstapp
 6-code .  /*it opens the repo in vs code*/
-7-npm start
+7-npm start /*run the project on browser(rendering)*/
 *******************usefullsites
 https://react-bootstrap.netlify.app/components/cards/#rb-docs-content******get React-Bootstrap
 https://www.wallpaperflare.com/search?wallpaper=reactJS******images 
