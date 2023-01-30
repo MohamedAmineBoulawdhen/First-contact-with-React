@@ -17,9 +17,8 @@ In this workshop, we will be getting started with React and exploring its capabi
 
 In case you encounter any problems, refer to the following [readings](https://reactjs.org/docs/getting-started.html) about React.
 
-## Time Complexity
-The time required to complete this checkpoint will depend on your familiarity with React, Node JS, and Visual Studio Code.
-
 ## Conclusion
-This checkpoint will provide a solid foundation for your journey with React and allow you to explore its capabilities through hands-on experience. Good luck!
-
+This workshop will provide a solid foundation for your journey with React and allow you to explore its capabilities through hands-on experience. Good luck!
+---
+🙌 If you found this repository helpful, show your support by starring it. Your support means a lot. 
+Thank you for your time and consideration!
