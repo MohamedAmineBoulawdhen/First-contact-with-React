@@ -19,6 +19,4 @@ In case you encounter any problems, refer to the following [readings](https://re
 
 ## Conclusion
 This workshop will provide a solid foundation for your journey with React and allow you to explore its capabilities through hands-on experience. Good luck!
----
-🙌 If you found this repository helpful, show your support by starring it. Your support means a lot. 
-Thank you for your time and consideration!
+
